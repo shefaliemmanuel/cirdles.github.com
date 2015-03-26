@@ -68,6 +68,7 @@ a {
 a:hover {
 	text-decoration: none;
 	color: #a03000;
+	transition: all 0.25s;
 }
 
 .dropdown-menu {
