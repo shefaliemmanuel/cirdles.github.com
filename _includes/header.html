@@ -1,4 +1,4 @@
-<header class="navbar navbar-inverse navbar-fixed-top">
+<header class="navbar navbar-inverse">
 
     <div class="container">
     <nav role="navigation">
@@ -15,11 +15,37 @@
         <!-- Collection of nav links, forms, and other content for toggling -->
         <div id="navbarCollapse" class="collapse navbar-collapse">
             <ul class="nav navbar-nav navbar-right">
-            	{% for page in site.pages %}
-          		{% if page.title %}
-          		<li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
-          		{% endif %}
-        		{% endfor %}
+            	<li class="dropdown">
+            		<a data-toggle="dropdown" class="dropdown-toggle" href="#">About <b class="caret"></b></a>
+            		<ul role="menu" class="dropdown-menu">
+		            	{% for page in site.pages %}
+		          		{% if page.title and page.sub == "about" %}
+		          		<li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
+		          		{% endif %}
+		        		{% endfor %}
+		        	</ul>
+		        </li>
+		        <li class="dropdown">
+            		<a data-toggle="dropdown" class="dropdown-toggle" href="#">Projects <b class="caret"></b></a>
+            		<ul role="menu" class="dropdown-menu">
+		            	{% for page in site.pages %}
+		          		{% if page.title and page.sub == "projects" %}
+		          		<li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
+		          		{% endif %}
+		        		{% endfor %}
+		        	</ul>
+		        </li>
+		        <li class="dropdown">
+            		<a data-toggle="dropdown" class="dropdown-toggle" href="#">Community <b class="caret"></b></a>
+            		<ul role="menu" class="dropdown-menu">
+		            	{% for page in site.pages %}
+		          		{% if page.title and page.sub == "community" %}
+		          		<li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
+		          		{% endif %}
+		        		{% endfor %}
+		        	</ul>
+		        </li>
+		    </ul>
 
             <!-- Original bootstrap
                 <li class="active"><a href="#">Home</a></li>

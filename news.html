@@ -1,0 +1,25 @@
+---
+layout: default
+sub: about
+title: News
+permalink: /news/
+---
+
+<div class="container">
+	<div class="box">
+
+  <h1>News</h1>
+
+  <ul class="list-unstyled">
+    {% for post in site.posts %}
+      <li class="post-list">
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
+
+</div>

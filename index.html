@@ -2,22 +2,36 @@
 layout: default
 ---
 
-<div class="home">
+<div class="container">
+	<div class="box">
+		<h2>CIRDLES</h2> 
+		<h2><small>Cyber Infrastructure Research & Development Lab for the Earth Sciences</small></h2>
 
-  <h1 class="page-heading">Posts</h1>
+		<p>Disclaimer: Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.</p>
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+		<p><strong>CIRDLES</strong> is creating cyber infrastructure for geochronology in an interdisciplinary collaboration among our software engineers and geochemists from two NSF-supported initiatives, <a href="http://www.earth-time.org/">EARTHTIME</a> and <a href="http://www.earthchem.org//">EarthChem</a>. The <a href="http://www.earth-time.org/">EARTHTIME</a> initiative is a community-supported network of geologists and geochemists focused on providing the tools necessary for high-precision sequencing of earth history using an integration of radioisotopic dating and stratigraphy. The <a href="http://www.earthchem.org//">EarthChem</a> project is designing data repositories for all geochemical data, including radioisotopic geochronological data.</p>
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+		<p>CIRDLES is designing and building a novel and exemplar end-to-end data processing system for uranium-lead geochronological data that links data production to data archiving. This system is the template for future efforts to process all geochronological data such as other radioisotopic systems involving 40Ar/39Ar, U-Th-He, and Lu-Hf. One novel and important aspect of the project is to integrate pedagogical and learning aids into the software products we develop. For example, the data reduction algorithms and the equations for the propagation of uncertainty will have interactive graphical interfaces to provide transparency and to enhance understanding.<p>
+
+		<h3>Here at CIRDLES, we are dedicated to attaining these goals:</h3>
+		<ul>
+			<li>Learn the foundational aspects of domain-specific software engineering from our work with geochemists</li>
+			<li>Develop software to serve as cyber infrastructure for geochronology - providing services from data analysis to data archiving and compilation</li>
+			<li>Work to benefit both computer science and the earth sciences</li>
+			<li>Provide research opportunities for undergraduate students</li> 
+			<li>Support the teaching efforts of both software engineers and geochemists by producing tangible, open-source artifacts for students to use</li> 
+		</ul>
+		<h3>Our affiliated organizations:</h3>
+		<ul>
+			<li><a href="http://www.cs.cofc.edu"> Computer Science Department at The College of Charleston </a></li> 
+			<li><a href="http://msps.cofc.edu/academicservices/scamp.php"> South Carolina Alliance for Minority Participation (SCAMP) </a></li> 
+			<li><a href="http://www.nsf.gov"> The National Science Foundation </a></li> 
+			<li><a href="http://www.earth-time.org"> EARTHTIME Project </a></li> 
+			<li><a href="http://www.earthchem.org"> EarthChem Project </a></li>
+			<li><a href="http://www.geochronportal.org/"> Geochron Geological Database Portal</a></li> 
+		</ul>
+
+	</div>
 
 </div>
