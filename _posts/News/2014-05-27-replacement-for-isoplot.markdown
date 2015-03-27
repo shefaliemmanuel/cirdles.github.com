@@ -2,6 +2,7 @@
 layout: post
 title:  "CIRDLES Launches Topsoil - A community driven open source replacement for ISOPLOT"
 date:   2014-05-27 14:48:49
+author: "Jim Bowring"
 categories: news
 ---
 

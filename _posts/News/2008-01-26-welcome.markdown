@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Welcome!"
+date:   2008-01-26 14:26:49
+author: "Administrator"
+categories: news
+---
+
+Welcome to to the Cyber Infrastructure Research and Development Lab for the Earth Sciences at the College of Charleston.

@@ -2,6 +2,7 @@
 layout: post
 title:  "CIRDLES and EARTHTIME rebrand U-Pb_Redux as ET_Redux and migrate to GitHub.com"
 date:   2015-03-22 13:48:49
+author: Jim Bowring
 categories: news
 ---
 

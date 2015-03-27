@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "UPDATES!"
+date:   2009-06-12 11:17:49
+author: "Jim Bowring"
+categories: news
+---
+
+Hello all! We have been extremely busy here at CIRDLES trying to get everything together. The newest addition to our team, Antoine Lagarde, has been busy modifying our website to make it better for our users. One of the most important changes made is the ability to register with the site. Once registered, you are able to access all of our downloads, including a full download of the U-Pb_Redux software, and much more. The site isn't the only thing being modified. The Help for the U-Pb_Redux program is currently under construction. We are working our hardest to make the help as helpful as possible. Summer break is no break for the CIRDLES team. All of this is just the beginning for what is in store of our research, especially since I will have the privilege to present our research at the College of Charleston in October and South Carolina State University in September. More to come soon!!

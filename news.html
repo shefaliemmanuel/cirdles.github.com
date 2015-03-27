@@ -13,7 +13,8 @@ permalink: /news/
   <ul class="list-unstyled">
     {% for post in site.posts %}
       <li class="post-list">
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+        <p>{{ post.date | date: "%b %-d, %Y" }}</p>
+        <small>Author: {{ post.author }}</small>
 
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
