@@ -19,12 +19,12 @@
             		<a data-toggle="dropdown" class="dropdown-toggle" href="#">About <b class="caret"></b></a>
             		<ul role="menu" class="dropdown-menu">
 		            	{% for page in site.pages %}
-		          		{% if page.title and page.sub == "about" %}
-		          		<li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
-		          		{% endif %}
-		        		{% endfor %}
-		        	</ul>
-		        </li>
+  		          		{% if page.title and page.sub == "about" %}
+  		          		<li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
+  		          		{% endif %}
+		        		  {% endfor %}
+		        	 </ul>
+		          </li>
 		        <li class="dropdown">
             		<a data-toggle="dropdown" class="dropdown-toggle" href="#">Projects <b class="caret"></b></a>
             		<ul role="menu" class="dropdown-menu">

@@ -9,6 +9,10 @@ body {
 	margin-top: 2em;
 }
 
+.disabled {
+	color: #333;
+}
+
 .container {
 	max-width: 800px;
 }
