@@ -1,0 +1,93 @@
+body {
+	font-size: 16px;
+	color: #fff;
+	text-shadow: 0 1px 3px rgba(0,0,0,0.5);
+	background: #333;
+}
+
+.description {
+	margin-top: 2em;
+}
+
+.disabled {
+	color: #333;
+}
+
+.container {
+	max-width: 800px;
+}
+
+.box {
+	background: #444;
+	box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+	border-radius: 10px;
+	margin-left: 10px;
+	margin-right: 10px;
+	padding: 30px;
+}
+
+
+/**
+ * Icons
+ */
+.icon > svg {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  vertical-align: middle; }
+  .icon > svg path {
+    fill: #fff;
+
+}
+
+.icon-glyph {
+	color: #fff;
+}
+
+/**
+ * Site footer
+ */
+.site-footer {
+  background-color: #212121;
+  margin-top: 40px;
+}
+
+/**
+* Navbar
+*/
+.navbar-inverse {
+	background: inherit;
+	border-width: 0;
+}
+
+#logo-atom {
+	width: 100px;
+	position: absolute;
+}
+
+a {
+	color: orange;
+}
+
+a:hover {
+	text-decoration: none;
+	color: #a03000;
+	transition: all 0.25s;
+}
+
+.dropdown-menu {
+	background: #212121;
+}
+
+.dropdown-menu li a {
+	color: #fff;
+}
+
+.navbar-inverse .navbar-nav>.open>a, .navbar-inverse .navbar-nav>.open>a:focus, .navbar-inverse .navbar-nav>.open>a:hover {
+	background: #212121;
+}
+
+.post-list {
+	margin-bottom: 40px;
+}
+

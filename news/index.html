@@ -2,8 +2,10 @@
 layout: default
 sub: about
 title: News
+page_number: '!PAGE_NUM!'
 ---
-
+<!-- Places a string variable in the page_number -->
+{% capture variable %}{{ page.page_number | replace: '!PAGE_NUM!', paginator.page }}{% endcapture %}
 <div class="container">
 	<div class="box">
 

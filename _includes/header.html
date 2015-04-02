@@ -19,8 +19,17 @@
             		<a data-toggle="dropdown" class="dropdown-toggle" href="#">About <b class="caret"></b></a>
             		<ul role="menu" class="dropdown-menu">
 		            	{% for page in site.pages %}
-  		          		{% if page.title and page.sub == "about" %}
-  		          		<li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
+                    
+                    <!-- The reason we capture the news_page_url below is because Jekyll includes each individual pagified page in the
+                    menu. There is most likely a better way of doing this because right now this isn't very robust.
+                    The capture takes the page's url (ie. "/news/page3/index.html") and truncates it so it reads "/news/page" if it is a
+                    pagified news file. Jekyll does NOT place the first page of the pagified series in "/news/page1/" instead it is just 
+                    in "/news/" and that is why this process works. -->
+                    
+                    {% capture news_page_url %}{{ page.url | truncate: 10, '' }}{% endcapture %}
+
+  		          		{% if page.title and page.sub == "about" and news_page_url != "/news/page" %}
+  		          		  <li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
   		          		{% endif %}
 		        		  {% endfor %}
 		        	 </ul>
@@ -87,5 +96,4 @@
 
   </div>
 -->
-
 </header>
