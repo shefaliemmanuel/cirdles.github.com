@@ -45,10 +45,10 @@
 		        	</ul>
 		        </li>
 		        <li class="dropdown">
-            		<a data-toggle="dropdown" class="dropdown-toggle" href="#">Community <b class="caret"></b></a>
+            		<a data-toggle="dropdown" class="dropdown-toggle" href="#">Resources<b class="caret"></b></a>
             		<ul role="menu" class="dropdown-menu">
 		            	{% for page in site.pages %}
-		          		{% if page.title and page.sub == "community" %}
+		          		{% if page.title and page.sub == "resource" %}
 		          		<li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
 		          		{% endif %}
 		        		{% endfor %}

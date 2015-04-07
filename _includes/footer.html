@@ -5,7 +5,7 @@
 	    <div class="col-sm-6">
 	      <h3>{{ site.title }}</h3>
 	      <ul class="list-unstyled">
-          	<li><span class="glyphicon glyphicon-envelope icon-glyph"></span> <a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+          	<li><a href="mailto:{{ site.email }}"><span class="glyphicon glyphicon-envelope icon-glyph"></span> Email</a></li>
           	{% if site.github_username %}
           <li>
             <a href="https://github.com/{{ site.github_username }}">
@@ -15,7 +15,7 @@
                 </svg>
               </span>
 
-              <span class="username">{{ site.github_username }}</span>
+              <span class="username">Github</span>
             </a>
           </li>
           {% endif %}

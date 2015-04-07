@@ -2,10 +2,8 @@
 layout: default
 sub: about
 title: News
-page_number: '!PAGE_NUM!'
 ---
-<!-- Places a string variable in the page_number -->
-{% capture variable %}{{ page.page_number | replace: '!PAGE_NUM!', paginator.page }}{% endcapture %}
+
 <div class="container">
 	<div class="box">
 
@@ -17,9 +15,9 @@ page_number: '!PAGE_NUM!'
         <p>{{ post.date | date: "%b %-d, %Y" }}</p>
         <small>Author: {{ post.author }}</small>
 
-        <h2>
+        <h3>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
+        </h3>
       </li>
     {% endfor %}
   </ul>

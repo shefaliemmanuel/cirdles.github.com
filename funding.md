@@ -4,10 +4,9 @@ sub: about
 title: Funding
 permalink: /funding/
 ---
+ **2014**: [NSF Award #1443037](http://nsf.gov/awardsearch/showAward?AWD_ID=1443037&HistoricalAwards=false): Collaborative Research: Cyberinfrastructure for Interpreting and Archiving U-series Geochronologic Data
 
-Any opinions, findings and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation (NSF).
-
-**2014**: NSF Award #0930223 - Year 5: Collaborative Research: Analytical Techniques and Software: Development of CyberInfrastructure to Support Laser-Ablation ICP Mass Spectrometry
+**2014**: [NSF Award #0930223](http://www.nsf.gov/awardsearch/showAward?AWD_ID=0930223) - Year 5: Collaborative Research: Analytical Techniques and Software: Development of CyberInfrastructure to Support Laser-Ablation ICP Mass Spectrometry
 
 **2014**: College of Charleston Undergraduate Research and Creative Activities (URCA) SURF Grant (Summer)
 
