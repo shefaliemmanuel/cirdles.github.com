@@ -1,0 +1,10 @@
+---
+layout: post
+name: John Zeringue
+status: current
+image: john_zeringue.jpg
+position: Undergraduate Research Assistant
+office: Harbor Walk East 307
+email: john.joseph.zeringue@gmail.com
+blog: http://johnzeringue.com/
+---
