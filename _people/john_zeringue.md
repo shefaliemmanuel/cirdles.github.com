@@ -1,6 +1,7 @@
 ---
 layout: post
 name: John Zeringue
+date: 2013-01-01
 status: current
 image: john_zeringue.jpg
 position: Undergraduate Research Assistant

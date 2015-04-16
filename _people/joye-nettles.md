@@ -1,6 +1,7 @@
 ---
 layout: post
 name: Joye Nettles
+date: 2012-01-01
 status: current
 image: joye_nettles.jpg
 position: Undergraduate Research Assistant

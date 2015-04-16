@@ -1,44 +1,45 @@
 ---
 layout: default
 sub: about
-title: people
+title: People
 ---
 
 <div class="container">
 	<div class="box">
   		<h1>People</h1>
 
-  		{% for people in site.people %}
-  		{% if people.status and people.status == "current" %}
+  		{% assign people = site.people | sort:"date" %}
+  		{% for person in people %}
+  		{% if person.status == "current" %}
   		<div class="row">
   			<div class="col-sm-8">
-  				{% if people.name %}
-  					<h3>{{ people.name }}</h3>
+  				{% if person.name %}
+  					<h3>{{ person.name }}</h3>
   				{% endif %}
   				<ul class="list-unstyled">
-  					{% if people.position %}
-  						<li>{{ people.position }}</li>
+  					{% if person.position %}
+  						<li>{{ person.position }}</li>
   					{% endif %}
-  					{% if people.office %}
-  						<li>{{ people.office }}</li>
+  					{% if person.office %}
+  						<li>{{ person.office }}</li>
   					{% endif %}
-  					{% if people.phone %}
-  						<li>{{ people.phone }}</li>
+  					{% if person.phone %}
+  						<li>{{ person.phone }}</li>
   					{% endif %}
-  					{% if people.email %}
-  						<li><a href="mailto:{{ people.email }}"><span class="glyphicon glyphicon-envelope icon-glyph"></span> Email</a></li>
+  					{% if person.email %}
+  						<li><a href="mailto:{{ person.email }}"><span class="glyphicon glyphicon-envelope icon-glyph"></span> Email</a></li>
   					{% endif %}
-  					{% if people.website %}
-  						<li><a href="{{ people.website }}"><span class="glyphicon glyphicon-link icon-glyph"></span> Website</a></li>
+  					{% if person.website %}
+  						<li><a href="{{ person.website }}"><span class="glyphicon glyphicon-link icon-glyph"></span> Website</a></li>
   					{% endif %}
-  					{% if people.blog %}
-  						<li><a href="{{ people.blog }}"><span class="glyphicon glyphicon-link icon-glyph"></span> Blog</a></li>
+  					{% if person.blog %}
+  						<li><a href="{{ person.blog }}"><span class="glyphicon glyphicon-link icon-glyph"></span> Blog</a></li>
   					{% endif %}
   				</ul>
   			</div>
   			<div class="col-sm-4">
   				<div class="people-container">
-  					<img src="/assets/images/{{ people.image }}" class="people-image"/>
+  					<img src="/assets/images/{{ person.image }}" class="people-image"/>
   				</div>
   			</div>
   		</div>
