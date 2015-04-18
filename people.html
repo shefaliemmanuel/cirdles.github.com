@@ -38,9 +38,11 @@ title: People
   				</ul>
   			</div>
   			<div class="col-sm-4">
+          {% if person.image %}
   				<div class="people-container">
   					<img src="/assets/images/{{ person.image }}" class="people-image"/>
   				</div>
+          {% endif %}
   			</div>
   		</div>
   		{% endif %}
