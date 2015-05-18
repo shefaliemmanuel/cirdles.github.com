@@ -38,8 +38,8 @@ body {
  */
 .icon > svg {
   display: inline-block;
-  width: 16px;
-  height: 16px;
+  width: 21px;
+  height: 21px;
   vertical-align: middle; }
   .icon > svg path {
     fill: #fff;
@@ -102,14 +102,21 @@ a:hover {
 }
 
 .people-container {
-	width: 150px;
-	height: 150px;
+	width: 175px;
+	height: 175px;
 	overflow: hidden;
 	border-radius: 50%;
 	border: 5px solid #333;
 }
+.img-container {
+	padding: 5% 0;
+}
 .people-container img {
 	width: 100%;
+}
+
+.line-section {
+	border-top: solid gray 2px;
 }
 
 .highlight {
@@ -125,6 +132,14 @@ a:hover {
 
 .well {
 	background-color: #2b2b2b;
+}
+
+.vcenter {
+    display: inline-block;
+    vertical-align: middle;
+    float: none;
+    margin: 0;
+    padding: 0;
 }
 
 
