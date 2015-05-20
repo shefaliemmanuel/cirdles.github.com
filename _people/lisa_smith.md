@@ -3,7 +3,7 @@ layout: post
 name: Lisa Smith
 date: 2012-01-01
 status: past
-image: lisa_smith.jpg
+image: lisa_smith.JPG
 position: Undergraduate Research Assistant
 email: lssmith@g.cofc.edu
 ---
