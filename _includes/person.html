@@ -11,9 +11,9 @@
 		{% if person.name %}
 			<h3>
 				{{ person.name }}
-				{% if person.date && person.status==past %}
-				<span> - {{ person.date | date: '%Y' }}</span>
-			{% endif %}
+				{% if person.status != "current" && person.date %}
+					<span> - {{ person.date | date: '%Y' }}</span>
+			 	{% endif %}
 			</h3>
 		{% endif %}
 		<ul class="list-unstyled">

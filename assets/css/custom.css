@@ -4,7 +4,7 @@ body {
 	text-shadow: 0 1px 3px rgba(0,0,0,0.5);
 	background: #333;
 	font-size: 20px;
-	line-height: 1.5em
+	line-height: 1.5em;
 }
 
 .description {
@@ -56,6 +56,7 @@ https://github.com/baldwinjj/ET_Redux.git
 .site-footer {
   background-color: #212121;
   margin-top: 40px;
+  box-shadow: 0 -3px -10px rgba(0,0,244,0.1);
 }
 
 /**
@@ -107,6 +108,7 @@ a:hover {
 	overflow: hidden;
 	border-radius: 50%;
 	border: 5px solid #333;
+	margin-top: 10px;
 }
 .img-container {
 	padding: 5% 0;
@@ -140,6 +142,10 @@ a:hover {
     float: none;
     margin: 0;
     padding: 0;
+}
+
+small {
+	color: #00f;
 }
 
 
