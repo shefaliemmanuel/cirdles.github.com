@@ -1,7 +1,7 @@
 ---
 layout: post
 name: MT Bourque
-date: 2015-01-01
+date: 2015-01-01 00:00:00
 status: past
 image: mt_bourque.png
 position: Undergraduate Research Assistant

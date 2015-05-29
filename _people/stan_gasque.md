@@ -1,7 +1,7 @@
 ---
 layout: post
 name: Stan Gasque
-date: 2008-01-01
+date: 2008-01-01 00:00:00
 status: past
 image: stan_gasque.png
 position: Undergraduate Research Assistant

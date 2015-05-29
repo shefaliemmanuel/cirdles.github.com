@@ -1,7 +1,7 @@
 ---
 layout: post
 name: Gabrielle Cozart
-date: 2013-01-01
+date: 2013-01-01 00:00:00
 status: current
 image: gabrielle_cozart.jpeg
 position: Undergraduate Research Assistant

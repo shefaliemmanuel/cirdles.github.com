@@ -1,7 +1,7 @@
 ---
 layout: post
 name: Jessica Mack
-date: 2013-01-01
+date: 2013-01-01 00:00:00
 status: current
 image: jessica_mack.jpg
 position: Undergraduate Research Assistant

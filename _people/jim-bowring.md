@@ -1,7 +1,7 @@
 ---
 layout: post
 name: Jim, Bowring Ph.D.
-start: 2000-01-01
+start: 2000-01-01 00:00:00
 status: current
 image: jim_bowring.jpg
 position: Principal Investigator

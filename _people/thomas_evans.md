@@ -1,7 +1,7 @@
 ---
 layout: post
 name: Thomas Evans
-date: 2013-01-01
+date: 2013-01-01 00:00:00
 status: current
 image: thomas_evans.jpg
 position: Undergraduate Research Assistant

@@ -1,7 +1,7 @@
 ---
 layout: post
 name: Chris Taylor
-date: 2012-01-01
+date: 2012-01-01 00:00:00
 status: past
 image: chris_taylor.PNG
 position: Undergraduate Research Assistant
