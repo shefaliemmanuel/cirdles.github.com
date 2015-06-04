@@ -148,6 +148,72 @@ small.blue {
 	color: #acf;
 }
 
+.svg-container {
+display: inline-block;
+position: relative;
+width: 100%;
+padding-bottom: 75%;
+vertical-align: middle;
+overflow: hidden;
+}
+
+.svg-content {
+display: inline-block;
+position: absolute;
+top: 0;
+left: 0;
+}
+
+.navbar-nav {
+	padding-top: 50px;
+}
+
+.logo {
+	margin: 0 0 0 15px;
+}
+
+@media (max-width: 768px) {
+	.logo {
+		width: 138px;
+		height: 50px;
+		margin: auto;
+	}
+	.navbar-brand {
+		padding: 0 0 0 15px;
+	}
+	.navbar-header {
+		padding-bottom: 10px;
+	}
+	.box {
+		margin-left: 0;
+		margin-right: 0;
+	}
+	.grow { 
+		transition: none !important;
+	}
+	.grow:hover { 
+		transform: none !important;
+	}
+	.navbar-nav {
+		padding-top: 0;
+	}
+}
+
+.navbar-brand {
+	height: auto;
+	padding: 0;
+	margin: 0;
+}
+
+.title {
+	padding-top: 5px;
+}
+
+.grow { transition: all .2s ease-in-out; }
+.grow:hover { transform: scale(1.1); }
+
+
+
 
 
 
