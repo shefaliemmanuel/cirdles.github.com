@@ -5,4 +5,4 @@ title: Architecture
 permalink: /architecture/
 ---
 
-[Architecture Diagram](../assets/documents/cyberInfrastructure.pdf)
+[Architecture Diagram](/assets/documents/cyberInfrastructure.pdf)
