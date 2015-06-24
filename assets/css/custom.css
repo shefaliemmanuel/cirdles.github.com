@@ -1,33 +1,18 @@
+/*
+Theme Name: CIRDLES Website Styles
+Description: Bootstrap Customizations for CIRDLES
+Author: Joey Baldwin
+*/
+
+
+/****** General Styles ******/
+
 body {
-	font-size: 16px;
 	color: #fff;
 	text-shadow: 0 1px 3px rgba(0,0,0,0.5);
 	background: #333;
 	font-size: 20px;
 	line-height: 1.5em;
-}
-
-.description {
-	margin-top: 2em;
-}
-
-.navbar {
-	z-index: 10;
-	min-height: 0;
-	margin-bottom: 20;
-}
-
-.sidebar {
-	z-index: 0;
-	display: block;
-}
-
-.navbar-brand {
-	font-size: 1.5em;
-}
-
-.disabled {
-	color: #333;
 }
 
 .container {
@@ -41,46 +26,12 @@ body {
 	padding: 30px;
 }
 
-https://github.com/baldwinjj/ET_Redux.git
-/**
- * Icons
- */
-.icon > svg {
-  display: inline-block;
-  width: 10px;
-  height: 10px;
-  vertical-align: middle; }
-  .icon > svg path {
-    fill: #fff;
-
+/*specifically for news pagination*/
+.disabled {
+	color: #333;
 }
 
-.icon-glyph {
-	color: #fff;
-}
-
-/**
- * Site footer
- */
-.site-footer {
-  background-color: #212121;
-  margin-top: 40px;
-  box-shadow: 0 -3px -10px rgba(0,0,244,0.1);
-}
-
-/**
-* Navbar
-*/
-.navbar-inverse {
-	background: inherit;
-	border-width: 0;
-}
-
-#logo-atom {
-	width: 100px;
-	position: absolute;
-}
-
+/****** Links ******/
 a {
 	color: orange;
 }
@@ -91,6 +42,17 @@ a:hover {
 	transition: all 0.25s;
 }
 
+
+/****** header ******/
+.navbar {
+	z-index: 10;
+}
+
+.navbar-inverse {
+	background: inherit;
+	border-width: 0;
+}
+
 .dropdown-menu {
 	background: #212121;
 }
@@ -99,16 +61,47 @@ a:hover {
 	color: #fff;
 }
 
-.navbar-inverse .navbar-nav>.open>a, .navbar-inverse .navbar-nav>.open>a:focus, .navbar-inverse .navbar-nav>.open>a:hover {
-	background: #212121;
+.navbar-brand {
+	font-size: 1.5em;
+	height: auto;
+	padding: 0;
 }
+
+/* drops the navbar 50px when in desktop view */
+.offset-navbar {
+	padding-top: 50px;
+}
+
+.grow { 
+	transition: all .2s ease-in-out; 
+}
+
+.grow:hover { 
+	transform: scale(1.1); 
+}
+
+
+/****** Footer ******/
+
+.description {
+	margin-top: 1em;
+}
+
+.site-footer {
+  background-color: #212121;
+  margin-top: 40px;
+}
+
+/****** Side Navigation ******/
+
+.sidebar {
+	z-index: 0;
+}
+
+/****** News List & People List ******/
 
 .post-list {
 	margin-bottom: 40px;
-}
-
-.text-muted {
-	color: white;
 }
 
 .people-container {
@@ -119,9 +112,7 @@ a:hover {
 	border: 5px solid #333;
 	margin-top: 10px;
 }
-.img-container {
-	padding: 5% 0;
-}
+
 .people-container img {
 	width: 100%;
 }
@@ -130,56 +121,49 @@ a:hover {
 	border-top: solid gray 2px;
 }
 
-.highlight {
-	background-color: #2b2b2b;
-  	color: #fff;
-  	-webkit-border-radius: 5px;
-  	-moz-border-radius: 5px;
-  	border-radius: 5px;
-  	-webkit-box-shadow: inset 0 1px 10px rgba(0,0,0,0.3),0 1px 0 rgba(255,255,255,0.1),0 -1px 0 rgba(0,0,0,0.5);
-  	-moz-box-shadow: inset 0 1px 10px rgba(0,0,0,0.3),0 1px 0 rgba(255,255,255,0.1),0 -1px 0 rgba(0,0,0,0.5);
-  	box-shadow: inset 0 1px 10px rgba(0,0,0,0.3),0 1px 0 rgba(255,255,255,0.1),0 -1px 0 rgba(0,0,0,0.5);
-}
 
-.well {
-	background-color: #2b2b2b;
-}
-
-.vcenter {
-    display: inline-block;
-    vertical-align: middle;
-    float: none;
-    margin: 0;
-    padding: 0;
-}
-
-small.blue {
-	color: #acf;
-}
+/****** Icons & Logo ******/
 
 .svg-container {
 display: inline-block;
 position: relative;
 width: 100%;
 padding-bottom: 75%;
-vertical-align: middle;
-overflow: hidden;
 }
 
 .svg-content {
-display: inline-block;
 position: absolute;
-top: 0;
 left: 0;
 }
 
-.offset-navbar {
-	padding-top: 50px;
+.title {
+	padding-top: 5px;
+}
+
+.icon > svg {
+  vertical-align: middle; 
+}
+  
+.icon > svg path {
+    fill: #fff;
+
+}
+
+.icon-glyph {
+	color: #fff;
 }
 
 .logo {
 	margin: 0 0 0 15px;
 }
+
+
+/****** media queries ******/
+
+/* unfortunately I didn't have the 
+foresite to design the website with
+a mobile first design so these media
+queries are primarily for mobile. */
 
 @media (max-width: 1087px) {
 	.container {
@@ -194,47 +178,45 @@ left: 0;
 }
 
 @media (max-width: 768px) {
+	/*centers logo in mobile view*/
 	.logo {
 		width: 138px;
 		height: 50px;
 		margin: auto;
 	}
+
 	.navbar-brand {
 		padding: 0 0 0 15px;
 	}
+
 	.navbar-header {
 		padding-bottom: 10px;
 	}
+
+	/* Counters the hover grow */
 	.grow { 
 		transition: none !important;
 	}
+
 	.grow:hover { 
 		transform: none !important;
 	}
+
 	.offset-navbar {
 		padding-top: 0;
 		z-index: 20;
 	}
+
 	.navbar {
 		margin-bottom: 0;
 	}
+	
 	.container {
 		width: 100%;
 	}
 }
 
-.navbar-brand {
-	height: auto;
-	padding: 0;
-	margin: 0;
-}
 
-.title {
-	padding-top: 5px;
-}
-
-.grow { transition: all .2s ease-in-out; }
-.grow:hover { transform: scale(1.1); }
 
 
 
