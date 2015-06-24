@@ -31,6 +31,13 @@ body {
 	color: #333;
 }
 
+.center-align {
+	text-align: center;
+	margin: auto;
+	width: 100%;
+	display: block;
+}
+
 /****** Links ******/
 a {
 	color: orange;
@@ -163,7 +170,8 @@ left: 0;
 /* unfortunately I didn't have the 
 foresite to design the website with
 a mobile first design so these media
-queries are primarily for mobile. */
+queries are primarily for the mobile.
+view */
 
 @media (max-width: 1087px) {
 	.container {
@@ -182,6 +190,14 @@ queries are primarily for mobile. */
 	.logo {
 		width: 138px;
 		height: 50px;
+		margin: auto;
+	}
+
+	.mobile-center {
+		text-align: center;
+	}
+
+	.mobile-center-photo {
 		margin: auto;
 	}
 
@@ -210,7 +226,7 @@ queries are primarily for mobile. */
 	.navbar {
 		margin-bottom: 0;
 	}
-	
+
 	.container {
 		width: 100%;
 	}

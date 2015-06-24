@@ -1,0 +1,216 @@
+- name: Antoine Lagarde
+  date: 2009-01-01 00:00:00
+  status: past
+  image: antoine_lagarde.gif
+  position: Univ of LaRochelle Intern Research Assistant
+  email: ant.lagarde@gmail.com
+
+- name: Brittany Johnson
+  date: 2011-01-01 00:00:00
+  status: past
+  image: brittany_johnson.png
+  position: Undergraduate Research Assistant
+  email: bjohnson2011@gmail.com
+
+- name: Chris Taylor
+  date: 2012-01-01 00:00:00
+  status: past
+  image: chris_taylor.PNG
+  position: Undergraduate Research Assistant
+  email: crtaylor@g.cofc.edu
+
+- name: Cyril Claverie
+  date: 2011-01-01 00:00:00
+  status: past
+  image: cyril_claverie.jpg
+  position: Unv of LaRochelle Intern Research Assistant
+  email: claverie.cyril@gmail.com
+
+- name: Danielle Brandon
+  date: 2010-01-01 00:00:00
+  status: past
+  image: danielle_brandon.png
+  position: Undergraduate Research Assistant
+  email: debrando@edisto.cofc.edu
+
+- name: Elaina Cole
+  date: 2015-04-30 00:00:00
+  status: current
+  image: elaina_cole.jpg
+  position: Undergraduate Research Assistant
+  office: Harbor Walk East 307
+  email: coleev@g.cofc.edu
+
+- name: Gabrielle Cozart
+  date: 2013-01-01 00:00:00
+  status: current
+  image: gabrielle_cozart.jpeg
+  position: Undergraduate Research Assistant
+  office: Harbor Walk East 307
+  email: cozartge@g.cofc.edu
+  blog: http://gabriellecozart.blogspot.com/
+
+- name: Hunter Hegler
+  date: 2013-01-01 00:00:00
+  status: past
+  image: hunter_hegler.png
+  position: Undergraduate Research Assistant
+  email: jhhegler@gmail.com
+
+- name: James Goodrich
+  date: 2010-01-01 00:00:00
+  status: past
+  image: james_goodrich.png
+  position: Undergraduate Research Assistant
+  email: jdgoodrichjr@gmail.com
+
+- name: Jason Daniel
+  date: 2013-01-01 00:00:00
+  status: past
+  image: jason_daniel.gif
+  position: Undergraduate Research Assistant
+  email: jdbarnwellsc@gmail.com
+
+- name: Jessica Mack
+  date: 2013-01-01 00:00:00
+  status: current
+  image: jessica_mack.jpg
+  position: Undergraduate Research Assistant
+  office: Harbor Walk East 307
+  email: mackjj@g.cofc.edu
+  blog: http://learntipsfortech.blogspot.com/
+
+- name: Jim, Bowring Ph.D.
+  start: 2000-01-01 00:00:00
+  status: current
+  image: jim_bowring.jpg
+  position: Principal Investigator
+  office: Harbor Walk East 308
+  phone: (843) 953-0805
+  email: bowringj@cofc.edu
+  website: http://www.cs.cofc.edu/~bowring
+
+- name: Jimmy Thomas
+  date: 2010-01-01 00:00:00
+  status: past
+  image: jimmy_thomas.jpeg
+  position: Unv of LaRochelle Intern Research Assistant
+  email: jimmythomas86@gmail.com
+
+- name: Joey Baldwin
+  date: 2013-01-01 00:00:00
+  status: current
+  image: joey_baldwin.jpg
+  position: Undergraduate Research Assistant
+  office: Harbor Walk East 307
+  email: baldwinjj@g.cofc.edu
+  blog: http://baldwinjj.blogspot.com/
+
+- name: John Zeringue
+  date: 2012-01-01 00:00:00
+  status: current
+  image: john_zeringue.jpg
+  position: Undergraduate Research Assistant
+  office: Harbor Walk East 307
+  email: john.joseph.zeringue@gmail.com
+  blog: http://johnzeringue.com/
+
+- name: Jonathan Benatter
+  date: 2008-01-01 00:00:00
+  status: past
+  image: jonathan_benattar.png
+  position: Univ of LaRochelle Intern Research Assistant
+  email: jonathan.benattar@gmail.com
+
+- name: Jonathan Tashakori
+  date: 2009-01-01 00:00:00
+  status: past
+  image: jonathan_tashakori.jpeg
+  position: Undergraduate Research Assistant
+  email: jtashakori@gmail.com
+
+- name: Joye Nettles
+  date: 2015-05-16 00:00:00
+  status: past
+  image: joye_nettles.jpg
+  position: Undergraduate Research Assistant
+  office: Harbor Walk East 307
+  email: nettlesjj@g.cofc.edu
+  blog: http://joyenettles.com/
+
+- name: Kaelin Briggs
+  date: 2013-01-01 00:00:00
+  status: current
+  position: Undergraduate Research Assistant
+  office: Harbor Walk East 307
+  email: briggskp@g.cofc.edu
+
+- name: Lisa Smith
+  date: 2012-01-01 00:00:00
+  status: past
+  image: lisa_smith.JPG
+  position: Undergraduate Research Assistant
+  email: lssmith@g.cofc.edu
+
+- name: Florent Pastor
+  date: 2014-01-01 00:00:00
+  status: past
+  image: florent_pastor.jpg
+  position: Undergraduate Research Assistant
+  email: lorent.pastor@gmail.com
+
+- name: Michael Feliciano
+  date: 2012-01-01 00:00:00
+  status: past
+  image: michael_feliciano.jpg
+  position: Undergraduate Research Assistant
+  email: mefelici@g.cofc.edu
+
+- name: Michael Jacko
+  date: 2009-01-01 00:00:00
+  status: past
+  image: michael_jacko.png
+  position: Undergraduate Research Assistant
+  email: mjacko@edisto.cofc.edu
+
+- name: MT Bourque
+  date: 2015-01-01 00:00:00
+  status: past
+  image: mt_bourque.png
+  position: Undergraduate Research Assistant
+  office: Harbor Walk East 307
+  email: bourquem@g.cofc.edu
+  blog: http://learningcirdles.blogspot.com/
+
+- name: Patrick Brewer
+  date: 2014-01-01 00:00:00
+  status: past
+  image: patrick_brewer.png
+  position: Undergraduate Research Assistant
+  email: pkbrewer@g.cofc.edu
+  blog: http://pkbrewer.wordpress.com
+
+- name: Santoshi Devata
+  date: 2014-01-01 00:00:00
+  status: past
+  image: santoshi_devata.jpg
+  position: Graduate Research Assistant
+  email: devastas@g.cofc.edu
+  blog: http://santoshinitya.blogspot.com/
+
+- name: Stan Gasque
+  date: 2008-01-01 00:00:00
+  status: past
+  image: stan_gasque.png
+  position: Undergraduate Research Assistant
+  email: sgasque@gmail.com
+
+- name: Thomas Evans
+  date: 2015-05-17 00:00:00
+  status: past
+  image: thomas_evans.jpg
+  position: Undergraduate Research Assistant
+  office: Harbor Walk East 307
+  email: tlevans@g.cofc.edu
+  blog: http://tomevansdatavis.blogspot.com/
+

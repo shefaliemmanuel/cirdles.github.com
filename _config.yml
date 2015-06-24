@@ -15,6 +15,3 @@ paginate_path: /news/page:num
 highlighter: true
 markdown: kramdown
 
-# collections
-collections:
-- people
