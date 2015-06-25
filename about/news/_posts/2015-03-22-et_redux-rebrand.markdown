@@ -13,7 +13,3 @@ Our new home will be: [https://github.com/CIRDLES/ET_Redux](https://github.com/C
 * list1
 * list2
 * list3
-
-```
-if(true) {"jump"}
-```

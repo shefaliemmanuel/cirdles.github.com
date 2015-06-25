@@ -1,8 +1,8 @@
 ---
 layout: page
-sub: about
+nav-category: about
 title: Funding
-permalink: /funding/
+permalink: /about/funding/
 ---
  **2014**: [NSF Award #1443037](http://nsf.gov/awardsearch/showAward?AWD_ID=1443037&HistoricalAwards=false): Collaborative Research: Cyberinfrastructure for Interpreting and Archiving U-series Geochronologic Data
 

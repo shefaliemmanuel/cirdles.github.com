@@ -1,8 +1,8 @@
 ---
 layout: page
-sub: resources
+nav-category: resources
 title: Synthetic Data
-permalink: /synthetic-data/
+permalink: /resources/synthetic-data/
 ---
 
 **ID-TIMS U-Pb Synthetic Datasets:**

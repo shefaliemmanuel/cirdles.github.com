@@ -1,7 +1,7 @@
 ---
 layout: page
-sub: community
+nav-category: community
 title: U-Pb IDTIMS
-permalink: /u-pb-idtims/
+permalink: /community/u-pb-idtims/
 ---
 

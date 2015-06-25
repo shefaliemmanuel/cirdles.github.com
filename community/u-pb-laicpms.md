@@ -1,6 +1,6 @@
 ---
 layout: page
-sub: community
+nav-category: community
 title: U-Pb LAICPMS
-permalink: /u-pb-laicpms/
+permalink: /community/u-pb-laicpms/
 ---

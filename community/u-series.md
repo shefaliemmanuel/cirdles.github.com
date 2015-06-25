@@ -1,6 +1,6 @@
 ---
 layout: page
-sub: community
+nav-category: community
 title: U-Series
-permalink: /u-series/
+permalink: /community/u-series/
 ---

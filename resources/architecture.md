@@ -1,8 +1,8 @@
 ---
 layout: page
-sub: resources
+nav-category: resources
 title: Architecture
-permalink: /architecture/
+permalink: /resources/architecture/
 ---
 
 [Architecture Diagram](../assets/documents/CyberInfrastructure.pdf)

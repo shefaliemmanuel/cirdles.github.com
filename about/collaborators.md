@@ -1,8 +1,8 @@
 ---
 layout: page
-sub: about
+nav-category: about
 title: Collaborators
-permalink: /collaborators/
+permalink: /about/collaborators/
 ---
 
 Jason Ash, University of Kansas

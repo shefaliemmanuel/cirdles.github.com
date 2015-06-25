@@ -54,11 +54,11 @@
                     The capture takes the page's url (ie. "/news/page3/index.html") and truncates it so it reads "/news/page" if it is a
                     pagified news file. Jekyll does NOT place the first page of the pagified series in "/news/page1/" instead it is just 
                     in "/news/" and that is why this process works. -->
-		            	{% for page in site.pages %}
+		            {% for page in site.pages %}
                     
-                    {% capture news_page_url %}{{ page.url | truncate: 10, '' }}{% endcapture %}
+                    {% capture news_page_url %}{{ page.url | truncate: 16, '' }}{% endcapture %}
 
-  		          		{% if page.title and page.sub == "about" and news_page_url != "/news/page" %}
+  		          		{% if page.title and page.nav-category == "about" and news_page_url != "/about/news/page" %}
   		          		  <li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
   		          		{% endif %}
 		        		  {% endfor %}
@@ -68,7 +68,7 @@
             		<a data-toggle="dropdown" class="dropdown-toggle" href="#">Projects <b class="caret"></b></a>
             		<ul role="menu" class="dropdown-menu">
 		            	{% for page in site.pages %}
-		          		{% if page.title and page.sub == "projects" %}
+		          		{% if page.title and page.nav-category == "projects" %}
 		          		<li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
 		          		{% endif %}
 		        		{% endfor %}
@@ -78,7 +78,7 @@
             		<a data-toggle="dropdown" class="dropdown-toggle" href="#">Resources<b class="caret"></b></a>
             		<ul role="menu" class="dropdown-menu">
 		            {% for page in site.pages %}
-		          		{% if page.title and page.sub == "resources" %}
+		          		{% if page.title and page.nav-category == "resources" %}
 		          		<li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
 		          		{% endif %}
 		        		{% endfor %}
@@ -88,7 +88,7 @@
                 <a data-toggle="dropdown" class="dropdown-toggle" href="#">Community<b class="caret"></b></a>
                 <ul role="menu" class="dropdown-menu">
                 {% for page in site.pages %}
-                  {% if page.title and page.sub == "community" %}
+                  {% if page.title and page.nav-category == "community" %}
                   <li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
                   {% endif %}
                 {% endfor %}

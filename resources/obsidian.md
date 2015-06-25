@@ -1,8 +1,8 @@
 ---
 layout: page
-sub: resources
+nav-category: resources
 title: Obsidian
-permalink: /obsidian/
+permalink: /resources/obsidian/
 ---
 
 Check out our new testing tool, Obsidian!
