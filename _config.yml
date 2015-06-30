@@ -15,4 +15,10 @@ paginate_path: "/about/news/page:num/"
 highlighter: true
 markdown: kramdown
 
+collections:
+- chroni
+- commons
+- et_redux
+- topsoil
+
  

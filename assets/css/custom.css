@@ -13,6 +13,7 @@ body {
 	background: #333;
 	font-size: 20px;
 	line-height: 1.5em;
+	position: relative;
 }
 
 .container {
@@ -102,8 +103,42 @@ a:hover {
 
 /****** Side Navigation ******/
 
-.sidebar {
-	z-index: 0;
+.affix {
+	top: 10px;
+}
+
+.nav-wrapper {
+    min-height: 50px;
+}
+
+.active > a {
+	border-left: 3px solid #fff;
+}
+
+.scroll-nav>li>a:hover {
+	background-color: inherit;
+	color: orange;
+	border-left: 1px solid #fff;
+}
+
+.nav .nav {
+	display: none;
+}
+
+.nav-list li li {
+	font-size: .6em;
+}
+
+.nav-list li a {
+	padding: 5px 15px;
+}
+
+.nav-list li li a {
+	padding: 0 20px;
+}
+
+.nav .active>ul {
+	display: block;
 }
 
 /****** News List & People List ******/
@@ -117,7 +152,6 @@ a:hover {
 	height: 175px;
 	overflow: hidden;
 	border-radius: 50%;
-	/*border: 5px solid #333;*/
 	box-shadow: 0 3px 10px rgba(0,0,0,0.5);
 	margin-top: 10px;
 }
