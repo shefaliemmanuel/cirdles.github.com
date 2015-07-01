@@ -4,7 +4,7 @@ nav-category: about
 title: Funding
 permalink: /about/funding/
 ---
- **2014**: [NSF Award #1443037](http://nsf.gov/awardsearch/showAward?AWD_ID=1443037&HistoricalAwards=false): Collaborative Research: Cyberinfrastructure for Interpreting and Archiving U-series Geochronologic Data
+**2014**: [NSF Award #1443037](http://nsf.gov/awardsearch/showAward?AWD_ID=1443037&HistoricalAwards=false): Collaborative Research: Cyberinfrastructure for Interpreting and Archiving U-series Geochronologic Data
 
 **2014**: [NSF Award #0930223](http://www.nsf.gov/awardsearch/showAward?AWD_ID=0930223) - Year 5: Collaborative Research: Analytical Techniques and Software: Development of CyberInfrastructure to Support Laser-Ablation ICP Mass Spectrometry
 
