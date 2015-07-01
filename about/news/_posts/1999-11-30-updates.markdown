@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Updates!!!"
+date:   1999-11-30 01:00:00
+author: "Administrator"
+categories: news
+---
+
+Just to introduce myself, I am the new "webmaster" if you will for the CIRDLES website. My name is Brittany and I will be trying to keep updates going on here as faithfully as possible. So far, we have been working on improving the website and making some updates. We're trying to get everything running smoothly as possible. Updates in progress:
+
+* People page: additions/modifications
+* Goals
+* Project Status
+* a few tweeks here and there.
+
+Also, we have noticed that the Geochron link on the affiliations page is not working properly. We will have that fixed soon as well! Stay tuned for more updates...

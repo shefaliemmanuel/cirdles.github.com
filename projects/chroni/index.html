@@ -1,0 +1,15 @@
+---
+layout: default
+nav-category: projects
+title: CHRONI
+permalink: /projects/chroni/
+
+category-order:
+- Welcome
+- Tester
+- Documentation
+---
+
+{% assign groups = site.chroni | group_by: "category" %}
+
+{% include help.html %}

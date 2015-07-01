@@ -1,0 +1,14 @@
+---
+layout: default
+nav-category: projects
+title: Commons
+permalink: /projects/commons/
+
+category-order:
+- Welcome
+---
+
+{% assign groups = site.commons | group_by: "category" %}
+
+{% include help.html %}
+
