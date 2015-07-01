@@ -1,0 +1,45 @@
+<div class="container">
+	<div class="box col-sm-10">
+
+	<header class="post-header">
+	    <h1 class="post-title">{{ page.title }}</h1>
+	</header>
+
+	  	{% for help in page.category-order %}
+		  	{% for group in groups %}
+			  	{% if group.name == help %}
+			  		{% include help_group.html %}
+			  	{% endif %}
+		  	{% endfor %}
+		{% endfor %}
+
+		{% for group in groups %}
+			{% unless page.category-order contains group.name %}
+		  		{% include help_group.html %}
+		  	{% endunless %}
+	  	{% endfor %}
+
+	</div>
+
+	<div class="col-sm-2 hidden-xs">
+		<div id="scroll-nav">
+			<ul class="nav nav-list affix-top scroll-nav" data-spy="affix" data-offset-top="140">
+
+			{% for help in page.category-order %}
+				{% for group in groups %}
+					{% if group.name == help %}
+						{% include help_group_nav.html %}
+					{% endif %}
+				{% endfor %}
+			{% endfor %}
+
+			{% for group in groups %}
+				{% unless page.category-order contains group.name %}
+					{% include help_group_nav.html %}
+				{% endunless %}
+			{% endfor %}
+			</ul>
+		</div>
+	</div>
+
+</div>
