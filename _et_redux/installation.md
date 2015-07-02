@@ -3,10 +3,8 @@ help: et_redux
 title: Installation
 category: Installation
 reference: installation
+order: 3
 ---
-
-Open your preferred web browser and go to [cirdles.org](https://www.cirdles.org). On the left hand side under Projects click [U-Pb_Redux](http://cirdles.org/U-Pb_Redux).
-A drop down menu will be displayed under U-Pb Redux. Click on [Downloads](http://cirdles.org/U-Pb_Redux_Downloads).
 		
 **Requirements**
 

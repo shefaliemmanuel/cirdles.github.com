@@ -4,8 +4,11 @@ nav-category: projects
 help: topsoil
 title: Topsoil
 permalink: /projects/topsoil/
+
+category-order:
+- - welcome
 ---
 
-{% assign groups = site.topsoil | group_by: "category" %}
+{% assign items = site.topsoil %}
 
 {% include help.html %}

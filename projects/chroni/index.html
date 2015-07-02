@@ -5,11 +5,13 @@ title: CHRONI
 permalink: /projects/chroni/
 
 category-order:
-- Welcome
-- Tester
-- Documentation
+- - welcome
+- - Tester
+  - test
+  - test2
+- - documentation
 ---
 
-{% assign groups = site.chroni | group_by: "category" %}
+{% assign items = site.chroni %}
 
 {% include help.html %}
