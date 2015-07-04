@@ -1,7 +1,7 @@
 <div class="container">
 	<div class="box col-sm-10">
 
-	<header class="post-header">
+	<header class="tab">
 	    <h1 class="post-title">{{ page.title }}</h1>
 	</header>
 
@@ -9,7 +9,7 @@
 			{% if i[1] == null %}
 				{% for item in items %}
 					{% if i[0] == item.reference %}
-						<div id="{{ item.reference }}">
+						<div class="post-list" id="{{ item.reference }}">
 							<h2>{{ item.title }}</h2>
 							{% include help_section.html %}
 						</div>
@@ -20,7 +20,7 @@
 				{% for j in i offset:1 %}
 					{% for item in items %}
 						{% if j == item.reference %}
-							<div id="{{ item.reference }}">
+							<div class="post-list" id="{{ item.reference }}">
 								<h3>{{ item.title }}</h3>
 								{% include help_section.html %}
 							</div>
