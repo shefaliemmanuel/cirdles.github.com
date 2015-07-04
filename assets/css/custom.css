@@ -33,6 +33,34 @@ pre {
 	background: #333;
 }
 
+/* Project title styling */
+
+.tab {
+	margin: 30px;
+	margin-left: -40px;
+	background: #507282;
+	padding: 10px 40px 10px 40px;
+	border-radius: 0 5px 5px 0;
+	position: relative;
+	display: inline-block;
+	box-shadow: 0 1px 5px rgba(0,0,0,0.3),inset 0 1px 0 rgba(255,255,255,0.2),inset 0 -1px 0 rgba(0,0,0,0.3);
+	text-shadow: 0 -1px 0 rgba(0,0,0,0.5);
+}
+
+.tab:before {
+	content: "";
+	position: absolute;
+	top: -10px;
+	left: 0;
+	border-color: transparent #305060 #305060 transparent;
+	border-style: solid;
+	border-width: 5px;
+	width: 0;
+	height: 0;
+}
+
+
+
 /*specifically for news pagination*/
 .disabled {
 	color: #333;
@@ -271,6 +299,13 @@ view */
 
 	.container {
 		width: 100%;
+	}
+}
+
+@media (max-width: 568px) {
+	.tab {
+		margin-right: -40px;
+		display: block;
 	}
 }
 
