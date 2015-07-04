@@ -27,6 +27,12 @@ body {
 	padding: 30px;
 }
 
+pre {
+	color: #fff;
+	border-color: #3f3f3f;
+	background: #333;
+}
+
 /*specifically for news pagination*/
 .disabled {
 	color: #333;
@@ -46,7 +52,7 @@ a {
 
 a:hover {
 	text-decoration: none;
-	color: #a03000;
+	color: #507282;
 	transition: all 0.25s;
 }
 
