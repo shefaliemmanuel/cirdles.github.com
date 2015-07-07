@@ -1,7 +1,5 @@
 ---
-help: et_redux
 title: Welcome
-category: Welcome
 reference: welcome
 ---
 
