@@ -141,12 +141,22 @@ a:hover {
 	top: 10px;
 }
 
+.affix-top {
+	white-space: nowrap;
+}
+
 .nav-wrapper {
     min-height: 50px;
 }
 
 .active > a {
 	border-left: 3px solid #fff;
+}
+
+.scroll-nav li li>a:hover {
+	background-color: inherit;
+	color: orange;
+	border-left: 1px solid #fff;
 }
 
 .scroll-nav>li>a:hover {
