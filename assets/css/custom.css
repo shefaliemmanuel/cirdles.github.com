@@ -159,7 +159,7 @@ a:hover {
 	border-left: 1px solid #fff;
 }
 
-.scroll-nav>li>li>a:hover {
+.scroll-nav>li>a:hover {
 	background-color: inherit;
 	color: orange;
 	border-left: 1px solid #fff;
