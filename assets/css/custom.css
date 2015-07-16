@@ -33,6 +33,10 @@ pre {
 	background: #333;
 }
 
+dd {
+	margin-bottom: 15px;
+}
+
 /* Project title styling */
 
 .tab {
