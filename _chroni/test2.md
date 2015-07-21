@@ -5,11 +5,11 @@ title: Installation and Beyond
 category: Setting Up
 reference: test2
 ---
-1. Install our most recent CHRONI APK from our Releases.
+1. Install our most recent CHRONI APK from our <a href="https://github.com/CIRDLES/CHRONI/releases">Releases</a>.
 	* Note: if using a computer to download the APK, simply send the file to your device via email.
 2. In a location where your device receives internet connection, open the CHRONI application.
 	* Internet connection is needed to initialize the application because the default Report Settings file must be fetched from cirdles.org.
-3. Congratulations! Your CHRONI application is officially setup! Now, you can utiliza the following features:
+3. Congratulations! Your CHRONI application is officially setup! Now, you can utilize the following features:
 	* Open - View your aliquot in a custom format as specified by your current Report Settings file
 	* History - Review your last ten aliquot files with the click of a button!
 	* Profile - Specify your Geochron Portal account information in order to retrieve private aliquot files.
