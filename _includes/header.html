@@ -49,7 +49,7 @@
             	<li class="dropdown grow">
             		<a data-toggle="dropdown" class="dropdown-toggle" href="#">About <b class="caret"></b></a>
             		<ul role="menu" class="dropdown-menu">
-            		{% assign sorted_pages = (site.pages | sort: 'title') %}
+            		{% assign sorted_pages = (site.pages | map:'title' | sort: 'downcase') %}
                     <!-- The reason we capture the news_page_url below is because Jekyll includes each individual pagified page in the
                     menu. There is most likely a better way of doing this because right now this isn't very robust.
                     The capture takes the page's url (ie. "/news/page3/index.html") and truncates it so it reads "/news/page" if it is a
