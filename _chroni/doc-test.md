@@ -15,3 +15,5 @@ This will be the site of FAQs and navigation assistance.
 5. The Profile page displays the entry fields of username and password. Once you have entered that information, you will receive two messages.
 	* "Your Geochron Information Profile is saved!"
 	* "Validating Credentials"
+	
+	Sample change to enforce commit
