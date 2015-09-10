@@ -1,8 +1,8 @@
 ---
 layout: project-page
 help: chroni
-title: Installation and Beyond
 category: Setting Up
+title: Installation and Beyond
 reference: test2
 ---
 1. Install our most recent CHRONI APK from our <a href="https://github.com/CIRDLES/CHRONI/releases">Releases</a>.
