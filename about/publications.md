@@ -28,6 +28,6 @@ Any opinions, findings and conclusions or recommendations expressed in this mate
 * McLean, N. M., Bowring, J. F., Bowring, S. A., Schoene, R. (2008). **More Than Just An Age: Quantitative Analysis of Geochronological Data and Uncertainty** (2008th ed., pp. Doc # 141-28). Boulder: Geological Society of America.([http://gsa.confex.com/gsa/2008AM/finalprogram/abstract_148339.htm](http://gsa.confex.com/gsa/2008AM/finalprogram/abstract_148339.htm)).
 
 * Bowring, S. A., Bowring, J. F., Condon, D., Heizler, M., Johnson, K., McLean, N. M., Parrish, R., Ramezani, J., Schoene, B. (2008). **The EARTHTIME Initiative: A Review of Progress and Prospects** (2008th ed., pp. Doc # 141-31).
-Boulder: Geological Society of America.([http://gsa.confex.com/gsa/2008AM/finalprogram/abstract_148523.htm](http://gsa.confex.com/gsa/2008AM/finalprogram/abstract_148523.htm)).
+Boulder: Geological Society of America. (<a href="http://gsa.confex.com/gsa/2008AM/finalprogram/abstract_148523.htm" target="_blank">http://gsa.confex.com/gsa/2008AM/finalprogram/abstract_148523.htm</a>).
 
 * Gehrels, G., Walker, J. D., Bowring, J. F., Bowring, S. A., May, S. (2008). **Tripoli, U-Pb_Redux, Dzdatabase, and EarthChem: components of an integrated system for archiving, analyzing, and portraying U-Th-Pb geochronologic data**. (2008th ed., pp. P-08). Madison: University of Wisconsin-Madison.

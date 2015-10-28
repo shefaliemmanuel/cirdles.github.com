@@ -14,6 +14,6 @@ If you are interested in learning more about Topsoil, please contact <a href="ma
 To cite Topsoil, please provide a footnote or acknowledgement as follows:
 
 J.F. Bowring, PI CIRDLES.org Open Source Development Team. Topsoil - A community driven replacement for ISOPLOT. Apache License, Version 2.0.
-<a href="https://github.com/CIRDLES/topsoil">https://github.com/CIRDLES/topsoil</a>.
+<a href="https://github.com/CIRDLES/topsoil" target="_blank">https://github.com/CIRDLES/topsoil</a>.
 
 We have an article in production that will become the official citable reference, stay tuned.
