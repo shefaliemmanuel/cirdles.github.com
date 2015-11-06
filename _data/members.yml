@@ -231,3 +231,22 @@
   office: Harbor Walk East 307
   email: muldrowbr@g.cofc.edu
   blog: https://muldrowbr.wordpress.com/
+  
+
+- name: Tyler Newman
+  date: 2015-10-21 00:00:00
+  status: current
+  image: tyler_newman.jpg
+  position: Undergraduate Research Assistant
+  office: Harbor Walk East 307
+  email: newmantp@g.cofc.edu
+  blog:
+  
+- name: Eliza Starr
+  date: 2015-10-21 00:00:00
+  status: current
+  image: eliza_starr.jpg
+  position: Undergraduate Research Assistant
+  office: Harbor Walk East 307
+  email: starrer@g.cofc.edu
+  blog:
