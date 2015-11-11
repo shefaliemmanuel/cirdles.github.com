@@ -250,3 +250,22 @@
   office: Harbor Walk East 307
   email: starrer@g.cofc.edu
   blog:
+  
+
+- name: Joshua Bingham
+  date: 2015-10-21 00:00:00
+  status: current
+  image: joshua_bingham.jpg
+  position: Undergraduate Research Assistant
+  office: Harbor Walk East 307
+  email: binghamjw@g.cofc.edu 
+  blog:
+  
+- name: Emily Coleman
+  date: 2015-10-21 00:00:00
+  status: current
+  image: emily_coleman.jpg
+  position: Undergraduate Research Assistant
+  office: Harbor Walk East 307
+  email: colemanea@g.cofc.edu  
+  blog:
