@@ -7,4 +7,4 @@ permalink: /resources/obsidian/
 
 Check out our new testing tool, Obsidian!
 
-visit [www.obsidiantest.org](http://obsidiantest.org)
+visit <a href="https://github.com/johnnyLadders/obsidian" target="_blank">www.obsidiantest.org</a>
