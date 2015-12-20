@@ -29,3 +29,4 @@ This will be the site of FAQs and navigation assistance.
 	* "Validating Credentials"
 	<!--<br>
 <img src="/assets/images/Profile.png" alt="Profile"  align="right" style="width:220px;height:250px;border: solid black 1px;"/>-->
+6. Please see the About page to learn more about the development of Chroni.
