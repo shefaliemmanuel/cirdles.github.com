@@ -7,7 +7,7 @@ permalink: /resources/synthetic-data/
 
 **ID-TIMS U-Pb Synthetic Datasets:**
 
-Please refer to Noah McLean's November 2009 Tutorial on using Tripoli and U-Pb&lowbarRedux: [Tutorial](../assets/documents/U-Pb_Redux_Demo.pdf)
+Please refer to Noah McLean's November 2009 Tutorial on using Tripoli and U-Pb_Redux: [Tutorial](../assets/documents/U-Pb_Redux_Demo.pdf)
 
 [cm1.zip](../assets/downloads/cm1.zip)
 
