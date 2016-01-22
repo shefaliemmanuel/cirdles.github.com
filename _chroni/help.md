@@ -14,7 +14,7 @@ F&Q:
 
 <em>Where can I locate IGSN numbers?</em> 
 
-* Go to <a href="http://geochron.org">geochron.org</a> and click "Search Geochron"
+* Go to <a href="http://geochron.org" target="_blank">geochron.org</a> and click "Search Geochron"
 * Click "Detrital Interface"
 * Choose one of the red circles in the region you want information on
 * Under "Samples Found" choose one and click "detail"
@@ -25,7 +25,7 @@ F&Q:
 <em>How can I download new report settings?</em>
 
 * You can create custom report settings by using ET\_Redux
-* The <a href="https://cirdles.org/projects/et_redux">ET_Redux Project</a> can tell you more about creating samples
+* The <a href="https://cirdles.org/projects/et_redux" target="_blank">ET-Redux Project</a> can tell you more about creating samples
 * Save the report settings as an xml file and send it to your email, then download the file onto your device
 * Save the file in the Chroni Report Settings folder
 

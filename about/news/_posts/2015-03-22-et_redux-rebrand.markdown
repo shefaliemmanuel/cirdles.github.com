@@ -10,6 +10,9 @@ ET_Redux is the flagship cyber infrastructure product of CIRDLES.  ET_Redux was 
 
 Our new home will be: [https://github.com/CIRDLES/ET_Redux](https://github.com/CIRDLES/ET_Redux).
 
+<!---
 * list1
 * list2
 * list3
+Don't know if this was here for a reason, so I'm commenting it out rather than deleting it!
+--->
