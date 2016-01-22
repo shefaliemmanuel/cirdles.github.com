@@ -7,6 +7,7 @@ reference: test2
 ---
 1. Install our most recent CHRONI APK from our <a href="https://github.com/CIRDLES/CHRONI/releases">Releases</a>.
 	* Note: if using a computer to download the APK, simply send the file to your device via email.
+	* Select the application from the dropdown menu on your device and hit install.
 2. In a location where your device receives internet connection, open the CHRONI application.
 	* Internet connection is needed to initialize the application because the default Report Settings file must be fetched from <a href="https://cirdles.org">cirdles.org<a/>.
 3. Congratulations! Your CHRONI application is officially setup! Now, you can utilize the following features:

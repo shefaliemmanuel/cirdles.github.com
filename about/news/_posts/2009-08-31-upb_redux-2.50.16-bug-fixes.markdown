@@ -1,9 +1,0 @@
----
-layout: post
-title:  "U-Pb_Redux 2.50.16 fixes bugs 11 and 12"
-date:   2009-08-31 11:17:49
-author: "Jim Bowring"
-categories: news
----
-
-Fixed disappearing menus. Fixed alternating gray bars in results table. Work has resumed on both Tripoli and U-Pb_Redux !! Note: Bug 10 was not in code, but due to an out-of-date file.

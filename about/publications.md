@@ -21,7 +21,7 @@ Any opinions, findings and conclusions or recommendations expressed in this mate
 
 * S. Bowring, D. Condon, N. McLean, J.Bowring, K. Johnson, M. Heizler. **The EARTHTIME Initiative: Progress and Promise**. Proceedings of the 2009 Geological Society of America Joint Annual Meeting, Portland, Oregon, October 2009. Doc # 160-1.
 
-* J. F. Bowring. **Building Cyber Infrastructure for Geochronology: A Case Study in Collaborative Software Engineering Research**. Proceedings of FSE Workshop on Infrastructure for Research in Collaborative Software Engineering (IRCoSE), November 2008, Atlanta, GA. ([http://home.segal.uvic.ca/~IRCoSE-2008/irecose2008_8.pdf](http://home.segal.uvic.ca/~IRCoSE-2008/irecose2008_8.pdf)).
+* J. F. Bowring. **Building Cyber Infrastructure for Geochronology: A Case Study in Collaborative Software Engineering Research**. Proceedings of FSE Workshop on Infrastructure for Research in Collaborative Software Engineering (IRCoSE), November 2008, Atlanta, GA. ([http://home.segal.uvic.ca/~IRCoSE-2008/irecose2008_8.pdf](../../assets/documents/BuildingCyberInfrastructure.pdf)).
 
 * Bowring, J. F., McLean, N. M., Walker, J. D., Bowring, S. A. (2008). **Building Cyberinfrastructure for Geochronology: Software Engineering Meets Geochemistry** (2008th ed., pp. Doc # 142-2). Boulder: Geological Society of America.([http://gsa.confex.com/gsa/2008AM/finalprogram/abstract_148490.htm](http://gsa.confex.com/gsa/2008AM/finalprogram/abstract_148490.htm)).
 
