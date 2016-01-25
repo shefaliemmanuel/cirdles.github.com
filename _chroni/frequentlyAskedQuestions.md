@@ -1,16 +1,13 @@
 ---
 layout: project-page
 help: chroni
-title: Help
 category: Help
-reference: help
+title: Frequently Asked Questions
+reference: frequentlyAskedQuestions
 ---
 
-Welcome to the Chroni Help Blog!
 
---------------------------------
 
-F&Q:
 
 <em>Where can I locate IGSN numbers?</em> 
 
@@ -29,6 +26,3 @@ F&Q:
 * Save the report settings as an xml file and send it to your email, then download the file onto your device
 * Save the file in the Chroni Report Settings folder
 
---------------------------------
-
-This page is currently under construction and will be updated frequently. Please see again soon. 
