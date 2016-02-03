@@ -12,7 +12,7 @@ This will be the site of FAQs and navigation assistance.
 <br>
 <!---<a href="/assets/images/HomeScreen.png" target="_blank"><img src="/assets/images/HomeScreen.png" alt="Home Screen" align="center" style="width:220px;height:250px;border: solid black 1px;"/></a>-->
 <br>
-2. Upon clicking "Open," you will be brought too a screen asking for the title of the a <a href="/assets/images/Aliquot.png" target="_blank">Aliquot</a> and you also have the ability to save aliquots.
+2. Upon clicking "Open," you will be brought to a screen asking for the title of the a <a href="/assets/images/Aliquot.png" target="_blank">Aliquot</a> and you also have the ability to save aliquots.
 <br>
 <!--<a href="/assets/images/Aliquot.png" target="_blank"><img src="/assets/images/Aliquot.png" alt="Aliquot" align="right" style="width:220px;height:250px;border: solid black 1px;"/></a>-->
 <br>
