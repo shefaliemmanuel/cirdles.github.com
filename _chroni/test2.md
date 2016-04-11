@@ -6,7 +6,7 @@ title: Installation and Beyond
 reference: test2
 ---
 
-1. Install our most recent CHRONI APK from our [Releases](https://github.com/CIRDLES/CHRONI/releases").
+1. Install our most recent CHRONI APK from our [Releases](https://github.com/CIRDLES/CHRONI/releases).
 	* Note: if using a computer to download the APK, simply send the file to your device via email.
 	* Select the application from the dropdown menu on your device and hit install.
 2. In a location where your device receives internet connection, open the CHRONI application.
