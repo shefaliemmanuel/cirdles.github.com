@@ -116,7 +116,7 @@
 
 - name: John Zeringue
   date: 2012-01-01 00:00:00
-  status: current
+  status: past
   image_url: https://avatars.githubusercontent.com/u/3858785?v=3
   position: Undergraduate Research Assistant
   office: Harbor Walk East 307
@@ -271,7 +271,7 @@
   
 - name: Joshua Lusk
   date: 2015-10-21 00:00:00
-  status: current
+  status: past
   image_url: /assets/images/joshua_lusk.JPG
   position: Undergraduate Research Assistant
   office: Harbor Walk East 307
