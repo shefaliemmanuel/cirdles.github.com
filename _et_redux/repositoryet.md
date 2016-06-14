@@ -1,12 +1,12 @@
 ---
 layout: project-page
 help: et_redux
-title: 
+title: ET_REDUX Repository
 category: Repository
 reference: repository
 ---
 
 
 <a href="https://github.com/CIRDLES/ET_Redux" target="_blank">
-<img src="/assets/icons/github_logo.png" alt="link to ET_REDUX repository" height="60" width="150">
+<img src="/assets/icons/github_icon.png" alt="link to CHRONI repository">
 </a>
