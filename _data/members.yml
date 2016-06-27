@@ -1,9 +1,18 @@
+- name: Robert Bigelow
+  date: 2016-06-01 00:00:00
+  status: current
+  image_url: /assets/images/drew_pic.jpg
+  position: Undergraduate Research Assistant
+  email: bigelowd@g.cofc.edu
+  blog: http://drewbigelow.blogspot.com/
+
 - name: Shefali Emmanuel
   date: 2016-06-01 00:00:00
   status: current
   image_url: /assets/images/Shefali_Emmanuel.png
   position: Undergraduate Research Assistant
   email: emmanuelsn@g.cofc.edu
+  blog: https://shefaliemmanuel.wordpress.com/2016/06/08/blog-post-title-2/
   
 - name: Antoine Lagarde
   date: 2009-01-01 00:00:00
