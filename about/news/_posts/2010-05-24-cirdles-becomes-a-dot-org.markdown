@@ -6,4 +6,4 @@ author: "Jim Bowring"
 categories: news
 ---
 
-CIRDLES is now available via [www.CIRDLES.org](http://www.cirdles.org/).  We still are self-signing, so you get the nasty message from your browser the first time you visit, but self-signing is free.
+CIRDLES is now available via <a href="http://www.cirdles.org/" target="_blank">www.CIRDLES.org</a>.  We still are self-signing, so you get the nasty message from your browser the first time you visit, but self-signing is free.

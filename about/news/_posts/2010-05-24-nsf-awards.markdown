@@ -6,4 +6,5 @@ author: "Jim Bowring"
 categories: news
 ---
 
-Read the award abstract [here](http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=0930223).
+Read the award abstract
+<a href="http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=0930223" target="_blank">here</a>.

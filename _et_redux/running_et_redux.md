@@ -13,6 +13,6 @@ Open your preferred command terminal and navigate to the directory that contains
 
     $ java -jar ET_Redux<version>.jar
 
-Learn more about using a command line [here](http://cli.learncodethehardway.org/book/).
+Learn more about using a command line <a href="http://cli.learncodethehardway.org/book/" target="_blank">here</a>.
 
 *Note: This command should work for all operating systems.*
