@@ -5,4 +5,5 @@ title: XML Schema
 permalink: /resources/xml-schema/
 ---
 
-Please find our public schema [here](http://www.earth-time.org/projects/upb/public_data/XSD/).
+Please find our public schema 
+<a href="http://www.earth-time.org/projects/upb/public_data/XSD/" target="_blank">here</a>

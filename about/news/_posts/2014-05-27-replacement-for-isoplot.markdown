@@ -12,9 +12,9 @@ Topsoil is a desktop application and Java library that creates data visualizatio
  
 The College of Charleston Undergraduate Research Program and the Computer Science Department have provided seed money to get Topsoil up and running as an open source community project.
  
-Please visit [https://github.com/CIRDLES/topsoil](https://github.com/CIRDLES/topsoil) and read the instructions and wiki, then download the latest release.  
+Please visit <a href="https://github.com/CIRDLES/topsoil" target="_blank">https://github.com/CIRDLES/topsoil</a> and read the instructions and wiki, then download the latest release.  
  
-If you want to contribute ideas, join GitHub and send your user name to [Jim Bowring](mailto:bowringj@cofc.edu) and we will include you in the team.
+If you want to contribute ideas, join GitHub and send your user name to <a href="mailto:bowringj@cofc.edu">Jim Bowring</a> and we will include you in the team.
  
 Be sure to explore the GitHub tutorials.  
  
@@ -22,7 +22,7 @@ If you are interested in assisting with the actual code development or test case
  
 If you want to raise issues, use the issue tracker.
  
-We have a small team and lots to do, so there will be plenty of triaging.  Please welcome CIRDLES student developers John Zeringue ([http://johnzeringue.com/](http://johnzeringue.com/))  and Florent Pastor, an intern from the University of La Rochelle, France.  These two are doing the heavy lifting!
+We have a small team and lots to do, so there will be plenty of triaging.  Please welcome CIRDLES student developers John Zeringue <a href="http://johnzeringue.com/" target="_blank">(http://johnzeringue.com/)</a>  and Florent Pastor, an intern from the University of La Rochelle, France.  These two are doing the heavy lifting!
  
 The current release is meant to show what is possible, and we hope it inspires you to embrace the potential here of replacing Isoplot over the next couple years with a platform-independent open source solution.
  

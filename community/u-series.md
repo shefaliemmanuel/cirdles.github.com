@@ -39,100 +39,101 @@ Contact details of some of the laboratories offering U-series geochronology in t
 
 ###U-series dating of marine carbonates
 
+
 * High-precision measurements of > 500,000 year-old corals.<br> 
-[Andersen MB, Stirling CH, Potter E-K, Halliday AN, Blake SG, McCulloch MT, Ayling BF, O'Leary MJ (2008) High-precision measurements of >500,000 year-old corals. Earth and Planetary Science Letters, 265: 229-245.](http://www.sciencedirect.com/science/article/pii/S0012821X07006462)
+<a href="http://www.sciencedirect.com/science/article/pii/S0012821X07006462" target="_blank">Andersen MB, Stirling CH, Potter E-K, Halliday AN, Blake SG, McCulloch MT, Ayling BF, O'Leary MJ (2008) High-precision measurements of >500,000 year-old corals. Earth and Planetary Science Letters, 265: 229-245.</a>
 
 * U-Th dating of corals to calibrate the C-14 timescale.<br>
-[Bard E, Bruno H, Fairbanks RG, Zindler A (1990) Calibration of the 14C timescale over the past 30,000 years using mass spectrometric U-Th ages from Barbados corals. Nature, 345: 405-410.](http://www.nature.com/nature/journal/v345/n6274/abs/345405a0.html)
+<a href="http://www.nature.com/nature/journal/v345/n6274/abs/345405a0.html" target="_blank">Bard E, Bruno H, Fairbanks RG, Zindler A (1990) Calibration of the 14C timescale over the past 30,000 years using mass spectrometric U-Th ages from Barbados corals. Nature, 345: 405-410.</a>
 
 * Fossil corals from Barbados dated by alpha-counting to test Milankovitch hypothesis.<br>
-[Broecker WS, Thurber DL, Goddard J, Ku T-L, Matthews RK, Mesolella KJ(1968) Milankovitch Hypothesis Supported by Precise Dating of Coral Reefs and Deep-Sea Sediments. Science, 159: 297-300.](http://www.sciencemag.org/content/159/3812/297.short)
+<a href="http://www.sciencemag.org/content/159/3812/297.short" target="_blank">Broecker WS, Thurber DL, Goddard J, Ku T-L, Matthews RK, Mesolella KJ(1968) Milankovitch Hypothesis Supported by Precise Dating of Coral Reefs and Deep-Sea Sediments. Science, 159: 297-300.</a>
 
 * U-Th dating of deep sea corals.<br>
-[Cheng H, Adkins J, Edwards RL, Boyle EA (2000) U-Th dating of deep sea corals. Geochimica et Cosmochimica Acta, 64: 2401-2416.](http://www.sciencedirect.com/science/article/pii/S0016703799004226)
+<a href="http://www.sciencedirect.com/science/article/pii/S0016703799004226" target="_blank">Cheng H, Adkins J, Edwards RL, Boyle EA (2000) U-Th dating of deep sea corals. Geochimica et Cosmochimica Acta, 64: 2401-2416.</a>
 
 * Pioneering work using mass spectrometry to date fossil corals.<br>
-[Edwards RL, Chen JH, Ku T-L, Wasserburg GJ (1987) Precise timing of the last interglacial period from mass spectrometric determination of thorium-230 in corals. Science, 236: 1547-1553.](http://www.sciencemag.org/content/236/4808/1547.long)
+<a href="http://www.sciencemag.org/content/236/4808/1547.long" target="_blank">Edwards RL, Chen JH, Ku T-L, Wasserburg GJ (1987) Precise timing of the last interglacial period from mass spectrometric determination of thorium-230 in corals. Science, 236: 1547-1553.</a>
 
 * Protactinium-231 dating of carbonates.<br>
-[Edwards RL, Cheng H, Murrell MT, Goldstein SJ (1997) Protactinium-231 dating of carbonates by thermal ionization mass spectrometry: implications for quaternary climate change. Science, 276: 782-786.](http://www.sciencemag.org/content/276/5313/782)
+<a href="http://www.sciencemag.org/content/276/5313/782" target="_blank">Edwards RL, Cheng H, Murrell MT, Goldstein SJ (1997) Protactinium-231 dating of carbonates by thermal ionization mass spectrometry: implications for quaternary climate change. Science, 276: 782-786.</a>
 
 * Describes open-system U-series geochemical arrays in Barbados fossil corals.<br>
-[Gallup CD, Edwards RL, Johnson RG (1994) The Timing of High Sea Levels Over the Past 200,000 Years. Science, 263: 796-800.](http://www.sciencemag.org/content/263/5148/796.abstract)
+<a href="http://www.sciencemag.org/content/263/5148/796.abstract" target="_blank">Gallup CD, Edwards RL, Johnson RG (1994) The Timing of High Sea Levels Over the Past 200,000 Years. Science, 263: 796-800.</a>
 
 * Dating of aragonitic sediments on the Bahamas Bank.<br>
-[Henderson GM, Slowey NC (2000) Evidence from U-Th dating against Northern Hemisphere forcing of the penultimate deglaciation. Nature, 404: 61-66.](http://www.nature.com/nature/journal/v404/n6773/abs/404061a0.html)
+<a href="http://www.nature.com/nature/journal/v404/n6773/abs/404061a0.html" target="_blank">Henderson GM, Slowey NC (2000) Evidence from U-Th dating against Northern Hemisphere forcing of the penultimate deglaciation. Nature, 404: 61-66.</a>
 
 ###U-series dating of cave deposits and continental carbonates
 
 * Paired U-Th and C-14 dating to resolve atmospheric C-14 concentration.<br>
-[Beck JW, Richards DA, Edwards RL, Silverman BW, Smart PL, Donahue DJ, Hererra-Osterheld S, Burr GS, Calsoyas L, Jull AJT, Biddulph D (2001) Extremely Large Variations of Atmospheric <sup>14</sup>C Concentration During the Last Glacial Period. Science, 292: 2453-2458.](http://www.sciencemag.org/content/292/5526/2453)
+<a href="http://www.sciencemag.org/content/292/5526/2453" target="_blank">Beck JW, Richards DA, Edwards RL, Silverman BW, Smart PL, Donahue DJ, Hererra-Osterheld S, Burr GS, Calsoyas L, Jull AJT, Biddulph D (2001) Extremely Large Variations of Atmospheric <sup>14</sup>C Concentration During the Last Glacial Period. Science, 292: 2453-2458.</a>
 
 * Timing of Ice Age Terminations.<br>
-[Cheng H, Edwards RL, Broecker WS, Denton GH, Kong X, Wang Y, Zhang R, Wang X (2009) Ice Age Terminations. Science, 326: 248-252.](http://www.sciencemag.org/content/326/5950/248.figures-only)
+<a href="http://www.sciencemag.org/content/326/5950/248.figures-only" target="_blank">Cheng H, Edwards RL, Broecker WS, Denton GH, Kong X, Wang Y, Zhang R, Wang X (2009) Ice Age Terminations. Science, 326: 248-252.</a>
 
 * Dating of submerged speleothems from last glacial period.<br>
-[Richards DA, Smart PL, Edwards RL (1994) Maximum sea levels for the last glacial period from U-series ages of submerged speleothems. Nature, 367: 357-360.](http://www.nature.com/nature/journal/v367/n6461/abs/367357a0.html)
+<a href="http://www.nature.com/nature/journal/v367/n6461/abs/367357a0.html" target="_blank">Richards DA, Smart PL, Edwards RL (1994) Maximum sea levels for the last glacial period from U-series ages of submerged speleothems. Nature, 367: 357-360.</a>
 
 * Hulu Cave record to infer East Asian Monsoon intensity.<br>
-[Wang YJ, Cheng H, Edwards RL, An ZS, Wu JY, Shen C-C, Dorale JA (2001) A High-Resolution Absolute-Dated Late Pleistocene Monsoon Record from Hulu Cave, China. Science, 294: 2345-2348.](http://www.sciencemag.org/content/294/5550/2345.full)
+<a href="http://www.sciencemag.org/content/294/5550/2345.full" target="_blank">Wang YJ, Cheng H, Edwards RL, An ZS, Wu JY, Shen C-C, Dorale JA (2001) A High-Resolution Absolute-Dated Late Pleistocene Monsoon Record from Hulu Cave, China. Science, 294: 2345-2348.</a>
 
 * Devils Hole vein calcite dated by alpha-counting to test Milankovitch hypothesis.<br>
-[Winograd IJ, Szabo BJ, Coplen TB, Riggs AC (1988) A 250,000-Year Climatic Record from Great Basin Vein Calcite: Implications for Milankovitch Theory. Science, 242: 1275-1280.](http://www.sciencemag.org/content/242/4883/1275)
+<a href="http://www.sciencemag.org/content/242/4883/1275" target="_blank">Winograd IJ, Szabo BJ, Coplen TB, Riggs AC (1988) A 250,000-Year Climatic Record from Great Basin Vein Calcite: Implications for Milankovitch Theory. Science, 242: 1275-1280.</a>
 
 ###U-series dating of volcanic rocks (mineral isochrons)
 
 * Pioneering work point out systematics of Th-U mineral isochron dating.<br>
-[Allègre CJ (1968) <sup>230</sup>Th dating of volcanic rocks: a comment. Earth and Planetary Science Letters, 5: 209-210.](http://www.sciencedirect.com/science/article/pii/S0012821X68800421)
+<a href="http://www.sciencedirect.com/science/article/pii/S0012821X68800421" target="_blank>Allègre CJ (1968) <sup>230</sup>Th dating of volcanic rocks: a comment. Earth and Planetary Science Letters, 5: 209-210.</a> 
 
 * Early example of U-Th isochron applications to volcanic rocks.<br>
-[Allègre CJ, Condomines M (1976) Fine chronology of volcanic processes using <sup>238</sup>U-<sup>230</sup>Th systematics. Earth and Planetary Science Letters, 28: 395-406.](http://www.sciencedirect.com/science/article/pii/0012821X76902016)
+<a href="http://www.sciencedirect.com/science/article/pii/0012821X76902016" target="_blank">Allègre CJ, Condomines M (1976) Fine chronology of volcanic processes using <sup>238</sup>U-<sup>230</sup>Th systematics. Earth and Planetary Science Letters, 28: 395-406.</a>
 
 * Isochron dating of phases that grow slowly in silicic magma chambers.<br>
-[Charlier B, Zellmer G (2000) Some remarks on U-Th mineral ages from igneous rocks with prolonged crystallisation histories. Earth and Planetary Science Letters, 183: 457-469.](http://www.sciencedirect.com/science/article/pii/S0012821X00002983)
+<a href="http://www.sciencedirect.com/science/article/pii/S0012821X00002983" target="_blank">Charlier B, Zellmer G (2000) Some remarks on U-Th mineral ages from igneous rocks with prolonged crystallisation histories. Earth and Planetary Science Letters, 183: 457-469.</a>
 
 * Dating of minerals in historical lavas to quantify crystal and magma residence timescales in Hawaii.<br>
-[Cooper KM, Reid MR, Murrell MT, Clague DA (2001) Crystal and magma residence at Kilauea Volcano, Hawaii: <sup>230</sup>Th-<sup>226</sup>Ra dating of the 1955 East Rift eruption. Earth and Planetary Science Letters, 184: 703-718.](http://www.sciencedirect.com/science/article/pii/S0012821X00003411)
+<a href="http://www.sciencedirect.com/science/article/pii/S0012821X00003411" target="_blank">Cooper KM, Reid MR, Murrell MT, Clague DA (2001) Crystal and magma residence at Kilauea Volcano, Hawaii: <sup>230</sup>Th-<sup>226</sup>Ra dating of the 1955 East Rift eruption. Earth and Planetary Science Letters, 184: 703-718.</a>
 
 * U-Th dating of pre-eruptive magma residence time in historical pumices.<br>
-[Schaefer SJ, Sturchio NC, Murrell MT, Stanley WN (1993) Internal <sup>238</sup>U-series systematics of pumice from the November 13, 1985, eruption of Nevado del Ruiz, Colombia. Geochimica et Cosmochimica Acta, 57: 1215-1219.](http://www.sciencedirect.com/science/article/pii/0016703793900585)
+<a href="http://www.sciencedirect.com/science/article/pii/0016703793900585" target="_blank">Schaefer SJ, Sturchio NC, Murrell MT, Stanley WN (1993) Internal <sup>238</sup>U-series systematics of pumice from the November 13, 1985, eruption of Nevado del Ruiz, Colombia. Geochimica et Cosmochimica Acta, 57: 1215-1219.</a>
 
 * U-Th-Ra isochron dating of from Mt. St. Helens volcanic rocks.<br>
-[Volpe AM, Hammond PE (1991) <sup>238</sup>U-<sup>230</sup>Th-<sup>226</sup>Ra disequilibria in young Mount St. Helens rocks: Time constraint for magma formation and crystallization. Earth and Planetary Science Letters, 107: 475-486.](http://www.sciencedirect.com/science/article/pii/0012821X9190094X)
+<a href="http://www.sciencedirect.com/science/article/pii/0012821X9190094X" target="_blank">Volpe AM, Hammond PE (1991) <sup>238</sup>U-<sup>230</sup>Th-<sup>226</sup>Ra disequilibria in young Mount St. Helens rocks: Time constraint for magma formation and crystallization. Earth and Planetary Science Letters, 107: 475-486.</a>
 
 * Dating of minerals in historical lavas constrains timing of magma formation and crustal storage in Iceland.<br>
-[Zellmer GF, Rubin KH, Grönvold K, Jurado-Chichay Z (2008) On the recent bimodal magmatic processes and their rates in the Torfajökull-Veidivötn area, Iceland. Earth and Planetary Science Letters, 269: 388-398.](http://www.sciencedirect.com/science/article/pii/S0012821X08001313)
+<a href="http://www.sciencedirect.com/science/article/pii/S0012821X08001313" target="_blank">Zellmer GF, Rubin KH, Grönvold K, Jurado-Chichay Z (2008) On the recent bimodal magmatic processes and their rates in the Torfajökull-Veidivötn area, Iceland. Earth and Planetary Science Letters, 269: 388-398.</a>
 
 ###U-series dating of volcanic rocks (external isochrons)
 
 * Dating of ocean ridge magmas using <sup>230</sup>Th-<sup>238</sup>U disequilibria.<br>
-[Goldstein SJ, Murrell MT, Janecky DR, Delaney JR, Clague DA (1992) Geochronology and petrogenesis of MORB from the Juan de Fuca and Gorda ridges by <sup>238</sup>U-<sup>230</sup>Th disequilibrium. Earth and Planetary Science Letters, 109: 255-272.](http://www.sciencedirect.com/science/article/pii/0012821X9290088D)
+<a href="http://www.sciencedirect.com/science/article/pii/0012821X9290088D" target="_blank">Goldstein SJ, Murrell MT, Janecky DR, Delaney JR, Clague DA (1992) Geochronology and petrogenesis of MORB from the Juan de Fuca and Gorda ridges by <sup>238</sup>U-<sup>230</sup>Th disequilibrium. Earth and Planetary Science Letters, 109: 255-272.</a>
 
 * Dating of magmas using Ba-normalized <sup>226</sup>Ra-<sup>230</sup>Th disequilibria.<br>
-[Rubin KH, Macdougall JD (1990) Dating of neovolcanic MORB using (<sup>226</sup>Ra/<sup>230</sup>Th) disequilibrium. Earth and Planetary Science Letters, 101: 313-322.](http://www.sciencedirect.com/science/article/pii/0012821X9090162Q)
+<a href="http://www.sciencedirect.com/science/article/pii/0012821X9090162Q" target="_blank">Rubin KH, Macdougall JD (1990) Dating of neovolcanic MORB using (<sup>226</sup>Ra/<sup>230</sup>Th) disequilibrium. Earth and Planetary Science Letters, 101: 313-322.</a>
 
 * Ra-Th dating of off-axis volcanism at an ultraslow spreading center.<br>
-[Standish JJ, Sims KWW (2010) Young off-axis volcanism along the ultraslow-spreading Southwest Indian Ridge. Nature Geoscience, 3: 286-292.](http://www.nature.com/ngeo/journal/v3/n4/abs/ngeo824.html)
+<a href="http://www.nature.com/ngeo/journal/v3/n4/abs/ngeo824.html" target="_blank">Standish JJ, Sims KWW (2010) Young off-axis volcanism along the ultraslow-spreading Southwest Indian Ridge. Nature Geoscience, 3: 286-292.</a>
 
 * Evidence for multiple dehydration events.<br>
-[Turner S, Bourdon B, Hawkesworth C, Evans P (2000) 226Ra-230Th evidence for multiple dehydration events, rapid melt ascent and the time scales of differentiation beneath the Tonga-Kermadec island arc. Earth and Planetary Science Letters, 179: 581-593.](http://www.sciencedirect.com/science/article/pii/S0012821X00001412)
+<a href="http://www.sciencedirect.com/science/article/pii/S0012821X00001412" target="_blank">Turner S, Bourdon B, Hawkesworth C, Evans P (2000) 226Ra-230Th evidence for multiple dehydration events, rapid melt ascent and the time scales of differentiation beneath the Tonga-Kermadec island arc. Earth and Planetary Science Letters, 179: 581-593.</a>
 
 * Ra-Th dating of off axis volcanism at a fast spreading center.<br>
-[Waters CL, Sims KWW, Klein EM, White SM, Reagan MK, Girard G (2013) Sill to surface: Linking young off-axis volcanism with subsurface melt at the overlapping spreading center at 9<sup>o</sup> 03'N East Pacific Rise. Earth and Planetary Science Letters, 369-370: 59-70.](http://www.sciencedirect.com/science/article/pii/S0012821X13001209)
+<a href="http://www.sciencedirect.com/science/article/pii/S0012821X13001209" target="_blank">Waters CL, Sims KWW, Klein EM, White SM, Reagan MK, Girard G (2013) Sill to surface: Linking young off-axis volcanism with subsurface melt at the overlapping spreading center at 9<sup>o</sup> 03'N East Pacific Rise. Earth and Planetary Science Letters, 369-370: 59-70.</a>
 
 ###Short-lived isotope U-series dating of volcanic rocks
 
 * Rapid rates of magma chamber processes from short-lived U-series disequilibria.<br>
-[Gauthier PJ, Le Cloarec MF, Condomines M (2000) Degassing processes at Stromboli Volcano inferred from short-lived disequilibria (<sup>210</sup>Pb-<sup>210</sup>Bi-<sup>210</sup>Po) in volcanic gases. J Volcanol Geotherm Res, 102: 1-19.](http://www.sciencedirect.com/science/article/pii/S0377027300001797)
+<a href="http://www.sciencedirect.com/science/article/pii/S0377027300001797" target="_blank">Gauthier PJ, Le Cloarec MF, Condomines M (2000) Degassing processes at Stromboli Volcano inferred from short-lived disequilibria (<sup>210</sup>Pb-<sup>210</sup>Bi-<sup>210</sup>Po) in volcanic gases. J Volcanol Geotherm Res, 102: 1-19.</a>
 
 * Pioneering work on volatile short-lived U-series disequilibria and magma dynamics.<br>
-[Lambert G, Le Cloarec MF, Ardouin B, Le Roulley JC (1985) Volcanic emission of radionuclides and magma dynamics. Earth and Planetary Science Letters, 76: 185-192.](http://www.sciencedirect.com/science/article/pii/0012821X8590158X)
+<a href="http://www.sciencedirect.com/science/article/pii/0012821X8590158X" target="_blank">Lambert G, Le Cloarec MF, Ardouin B, Le Roulley JC (1985) Volcanic emission of radionuclides and magma dynamics. Earth and Planetary Science Letters, 76: 185-192.</a>
 
 * Pioneering work using volatile <sup>210</sup>Po-<sup>210</sup>Pb disequilibrium to date submarine volcanic eruptions.<br>
-[Rubin KH, Macdougall JD, Perfit MR (1994) <sup>210</sup>Po-<sup>210</sup>Pb dating of recent volcanic eruptions on the sea floor. Nature, 368: 841-844.](http://www.nature.com/nature/journal/v368/n6474/abs/368841a0.html)
+<a href="http://www.nature.com/nature/journal/v368/n6474/abs/368841a0.html" target="_blank">Rubin KH, Macdougall JD, Perfit MR (1994) <sup>210</sup>Po-<sup>210</sup>Pb dating of recent volcanic eruptions on the sea floor. Nature, 368: 841-844.</a>
 
 * Using <sup>210</sup>Pb-<sup>226</sup>Ra disequilibria to constrain rapid rates of MORB generation.<br>
-[Rubin KH, van der Zander I, Smith MC, Bergmanis EC (2005) Minimum speed limit for ocean ridge magmatism from <sup>210</sup>Pb-<sup>226</sup>Ra-<sup>230</sup>Th disequilibria. Nature, 437: 534-538.](http://www.nature.com/nature/journal/v437/n7058/full/nature03993.html)
+<a href="http://www.nature.com/nature/journal/v437/n7058/full/nature03993.html" target="_blank">Rubin KH, van der Zander I, Smith MC, Bergmanis EC (2005) Minimum speed limit for ocean ridge magmatism from <sup>210</sup>Pb-<sup>226</sup>Ra-<sup>230</sup>Th disequilibria. Nature, 437: 534-538.</a>
 
 
 Ken Rubin | | | University of Hawaii

@@ -22,7 +22,8 @@ community colleagues in trying to improve our science using better metrology-bas
 We are recognized as a Special Interest Group of the <a href="http://www.geoanalyst.org/" target="_blank">International 
 Association of Geoanalysts</a> (IAG) and have established a 
 Working Group on LA-ICP-MS U-(Th-)Pb Geochronology to highlight and improve key aspects of our practices. 
-Our role, goals and objectives are described [here](http://www.elementsmagazine.org/archives/e5_4/e5_4_sn_iag.pdf).
+Our role, goals and objectives are described
+<a href="http://www.elementsmagazine.org/archives/e5_4/e5_4_sn_iag.pdf" target="_blank">here</a>.
 
 In combining skills from computer, geological and analytical sciences through <a href="http://www.CIRDLES.org" target="_blank">CIRDLES</a>, 
 <a href="http://www.earthchem.org" target="_blank">EarthChem</a>, 

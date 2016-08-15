@@ -12,7 +12,7 @@ Before starting, please install Topsoil.
 
 After opening Topsoil, we first need to import some data. Copy the table below by first highlighting the text. Then, click on the Topsoil data table and paste it in by using the paste shortcut (control-v on Windows or command-v on Mac).
 
-There is [a chart of sample data][]{:target="_blank"} on Topsoil's GitHub wiki.
+There is <a href="https://github.com/CIRDLES/topsoil/wiki#a-simple-tutorial" target="_blank">a chart of sample detail</a> on Topsoil's GitHub wiki.
 
 <!---207Pb\*/235U | ±2&sigma; (%) | 206Pb\*/238U | ±2&sigma; (%) |  corr coef
 -------------|---------------|-------------|---------------|------------
@@ -39,4 +39,6 @@ Now that we have data, let's make it into a new chart. To do this, first click t
 
 Congratulations! You have successfully created your first chart with Topsoil!
 
-[a chart of sample data]: https://github.com/CIRDLES/topsoil/wiki#a-simple-tutorial
+<!--
+<a href="https://github.com/CIRDLES/topsoil/wiki#a-simple-tutorial" target="_blank">a chart of sample data</a>
+-->
